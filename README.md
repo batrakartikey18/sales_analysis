@@ -93,6 +93,8 @@ The project provides actionable insights that can help improve:
 
   
 ## Dashboard img
-<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/6394e5c9-df51-4a2a-9898-6b15e25fed8f" />
+<img width="1178" height="657" alt="image" src="https://github.com/user-attachments/assets/6037b9e6-6eb1-4780-aff9-b5b0808e8368" />
+
+
 
 
