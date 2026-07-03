@@ -91,5 +91,8 @@ The project provides actionable insights that can help improve:
 * Add customer segmentation using machine learning.
 * Integrate data from multiple sources.
 
+  
+## Dashboard img
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/6394e5c9-df51-4a2a-9898-6b15e25fed8f" />
 
 
